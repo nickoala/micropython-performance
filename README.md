@@ -29,9 +29,9 @@ STM32H743VI ARM Cortex M7 processor at 480 MHz.
 
 1. Imperatively accumulating a sum is faster than `sum([... zip(...)])`
 
-2. List comprehension is faster than `map(func, list)`
+2. `[func(x) for x in list]` is faster than `map(func, list)`
 
-3. `[0] * length` to create a list is faster than `list.append()`
+3. `[0] * length` to create a list is the fastest
 
 4. `a ** b` is faster than `pow(a, b)`
 

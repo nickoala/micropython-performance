@@ -1,5 +1,9 @@
 import show
 
+"""
+Test different methods to obtain dot product of two vectors.
+"""
+
 @show.time
 def accum(a, b):
     s = 0

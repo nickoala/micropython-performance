@@ -1,6 +1,10 @@
 import show
 import math
 
+"""
+Test speed of math.pow() vs pow() vs operator**
+"""
+
 @show.time
 def math_pow(a, p):
     s = 0

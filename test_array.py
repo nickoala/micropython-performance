@@ -1,6 +1,10 @@
 import show
 from array import array
 
+"""
+Test speed and memory usage of array vs list.
+"""
+
 r = range(-50, 50)
 
 print('=== Integer List')

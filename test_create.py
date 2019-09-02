@@ -1,5 +1,9 @@
 import show
 
+"""
+Test different methods to create a list.
+"""
+
 @show.time
 def create_by_append(n):
     a = []
