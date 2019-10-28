@@ -41,11 +41,11 @@ STM32H743VI ARM Cortex M7 processor at 480 MHz.
 
 These knowledge informs my programming style in these projects:
 
-- [micropython-vec](https://gitlab.com/nickoala/micropython-vec):
+- [micropython-vec](https://gitlab.com/nickoala/micropython-vec) -
   Vector Operations on MicroPython
 
-- [micropython-mtx](https://gitlab.com/nickoala/micropython-mtx):
+- [micropython-mtx](https://gitlab.com/nickoala/micropython-mtx) -
   Fast Matrix Multiplication and Linear Solver on MicroPython
 
-- [OpenRV](https://gitlab.com/nickoala/openrv)
+- [OpenRV](https://gitlab.com/nickoala/openrv) -
   Robot Vision routines for OpenMV
