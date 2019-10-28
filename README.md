@@ -47,5 +47,5 @@ These knowledge informs my programming style in these projects:
 - [micropython-mtx](https://gitlab.com/nickoala/micropython-mtx) -
   Fast Matrix Multiplication and Linear Solver on MicroPython
 
-- [OpenRV](https://gitlab.com/nickoala/openrv) -
+- [OpenRV](https://github.com/nickoala/openrv) -
   Robot Vision routines for OpenMV
